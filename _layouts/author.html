@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.author] %}
+
+<div>
+    <h2>{{ author.display_name }}</h2>
+</div>
+
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        {% if author.avatar %}
+        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}"
+            alt="{{ author.display_name }}">
+        {% else %}
+        <img class="author-thumb"
+            src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+            alt="{{ author.display_name }}">
+        {% endif %}
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+        {% if author.follow %}
+            <a target="_blank" href="{{ author.follow }}" class="btn follow">Follow</a>
+        {% endif %}
+        <span class="author-description">{{ author.description }}</span>
+    </div>
+</div>
+
+<div>
+    <p>{{ author.bio | markdownify }}</p>
+</div>
+
+<div id="posts" class="row listrecent">
+    <div class="section-title col-md-12 mt-4">
+        <h2>Posts</h2>
+    </div>
+    {% assign filtered_posts = site.posts | where: 'author', page.author %}
+    {% for post in filtered_posts %}
+        {% if post.title != null %}
+            {% if group == null or group == post.group %}
+                {% include postbox.html %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>

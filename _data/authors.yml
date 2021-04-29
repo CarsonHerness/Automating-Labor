@@ -1,0 +1,12 @@
+  carson:
+    name: Carson
+    display_name: Carson Herness
+    avatar: 'assets/images/carson.png'
+    gravatar: ac560d1e105e432468a141c03f374007
+    email: cherness@g.hmc.edu
+    description: "Computer Science major at Harvey Mudd College"
+    web: https://github.com/CarsonHerness/
+    bio: |
+      I am a senior computer science major at Harvey Mudd College graduating in 2021.
+      
+      In Spring 2021, I enrolled in the class Human and Artificial Minds to learn about the history and development of Artificial Intelligence.
