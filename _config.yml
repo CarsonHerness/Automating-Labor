@@ -6,7 +6,7 @@ logo: 'assets/images/logo-512x512.png'
 favicon: 'assets/images/logo-512x512.png'
 baseurl: ''
 google_analytics: 
-# disqus: '' TODO
+disqus: ''
 include: ["_pages"]
 permalink: /:title/
 
