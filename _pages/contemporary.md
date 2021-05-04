@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Contemporary Issues
-permalink: /contemporary-issues
+permalink: /contemporary
 category_name: "contemporary"
 ---
