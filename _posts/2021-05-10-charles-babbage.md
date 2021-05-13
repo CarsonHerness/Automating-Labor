@@ -2,7 +2,7 @@
 layout: post
 title:  "Charles Babbage and Automation"
 author: carson
-categories: [ factories, nineteenth century ]
+categories: [ factories, nineteenth century, ethics ]
 category: historical
 featured: true
 image: "./assets/images/babbage.jpg"
@@ -12,7 +12,7 @@ Charles Babbage's impact on automation went beyond his work as the "Father of th
 
 Image from Llyfrgell Genedlaethol Cymru – The National Library of Wales. Image available at [the National Library of Wales website](http://hdl.handle.net/10107/4672397) under the [Creative Commons License](http://creativecommons.org/publicdomain/mark/1.0/).
 
---
+---
 
 Automation of labor is nothing new, but the rise of factories during the Industrial Revolution was a major milestone for automation. Charles Babbage, an nineteenth century philosopher, inventor, and mathematician, was an important figure for the invention of the modern factory system. Babbage is credited with many achievements, including "Father of the computer" for his work on the Analytical Engine with Ada Lovelace. Simon Schaffer is a professor of history & philosophy of science at the University of Cambridge who wrote about the connections between Babbage's engineering and factory work in "Babbage's Intelligence: Calculating Engines and the Factory System." Of course, mechanical and computational inventions have contributed to the automation of labor, augmenting or replacing previously human jobs. Schaffer quotes Henry Thomas Colebrooke, who in 1823 wrote, "Mr Babbage's invention puts an engine in place of the computer."[^1] Here, computer refers to its original definition: a job where a human performed calculations.[^2] Even in the early nineteenth century, people recognized that innovative inventions would replace jobs that had previously been limited to humans.
 
