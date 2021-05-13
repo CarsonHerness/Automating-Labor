@@ -64,9 +64,7 @@ Mitchell, Margaret, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, B
 
 Pomerol, Jean-Charles. "Artificial Intelligence and Human Decision Making." _European Journal of Operational Research_ 99, no. 1 (1997): 3–25. [https://doi.org/10.1016/s0377-2217(96)00378-5](https://doi.org/10.1016/s0377-2217(96)00378-5).
 
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
+## Footnotes
 
 [^1]:
      Jean-Charles Pomerol, "Artificial Intelligence and Human Decision Making," _European Journal of Operational Research_ 99, no. 1 (1997): pp. 3-25, [https://doi.org/10.1016/s0377-2217(96)00378-5](https://doi.org/10.1016/s0377-2217(96)00378-5), 11.
