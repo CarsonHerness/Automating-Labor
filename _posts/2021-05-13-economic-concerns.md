@@ -7,9 +7,6 @@ category: contemporary
 image: "./assets/images/robot_shopkeeper.jpg"
 ---
 
-
-## Losing Human Jobs
-
 Are human jobs all going to be replaced with robots? Will automation fundamentally reshape the economy?
 
 Photo by [Lukas](https://unsplash.com/@hauntedeyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
